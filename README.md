@@ -19,3 +19,9 @@ Galmatechblog est un endroit idéal pour les développeurs débutants et avancé
 - Symfony CLI.
 - Docker.
 - Docker-compose.
+
+### Initalisation du projt
+
+```bash
+make init
+```
