@@ -1,4 +1,4 @@
-# Galamtech_blog
+# Galamtechblog
 
 ## Description
 
