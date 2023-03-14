@@ -17,7 +17,7 @@ COLOUR_END=\033[0m
 init: ## Init the project
 	$(MAKE) start
 	$(MAKE) composer-install
-##$(MAKE) npm-install
+	$(MAKE) npm-install
 	@echo "$(COLOUR_GREEN)The application is available at: http://127.0.0.1:8000/.$(COLOUR_END)"
 
 cache-clear: ## Clear cache
